@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Netcode for multiplayer games in Unity**
 
+### [Salman Jan Resume](https://drive.google.com/file/d/1kBFI2W0hHBBTTCdDjN8YBpxwHIm2QpSR/view?usp=sharing)
+### [Salman Jan Game Dev Resume](https://drive.google.com/file/d/1BT-mmvmsCMqgPYKeBohJ2i-hQStJZ3oh/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
